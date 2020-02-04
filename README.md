@@ -9,6 +9,9 @@ Given any GWAS risk loci (or other purpose loci, LOI=loci of interest) and genom
 - circos 
 - homer > 4.10
 
+# Updates (January 2020) 
+
+ A new version of the code will be available for run it in a automated way directly from HiC-Pro results. 
 
 
 
